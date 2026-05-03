@@ -1,3 +1,3 @@
 # myProject
-this is my github project.
-my name is smarak.
+This is my github project.
+My name is Smarak.
